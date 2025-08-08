@@ -3,13 +3,12 @@
 ## 👨‍💻 About Me
 I'm a passionate Software Engineeer with a love for creating innovative solutions. I'm currently exploring [Platform Engineering & GenAI Usecases] and I'm excited about the possibilities in [Financial Sector & Generative AI].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Implementing some GenAI related usecase
+- 🌱 I’m currently learning Datascience, GenAI, etc
+- 👯 I’m looking to collaborate on any Startup usecases
 - 💬 Ask me about APIs, Devops, Gen AI, etc
 - 😄 Pronouns: HE / HIM / HIS
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I perform Magic, Have interest on Art, Theatre shows, etc
 
 ## 🚀 Skills & Technologies
 
@@ -46,17 +45,17 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| **Project 1** | A brief description of your project. | [Link to Repo/Demo](http://) |
-| **Project 2** | A brief description of your project. | [Link to Repo/Demo](http://) |
-| **Project 3** | A brief description of your project. | [Link to Repo/Demo](http://) |
+| **Nissan Websites** | The Nissan websites (200+ worldwide with multiple languages) was built using a CMS tool AEM by Adobe. I developed some of their backend services, API Gateway, AEM components, caching mechanisms, ETL tools & Monitoring Tools with ELK stack, AppDynamics, etc. I contributed on various aspects spanning about 4 years. One Key contribution was fixing the Zero day Log4j vulnerability on about 19 Java modules in a short span of time in 2021 | [Sample Nissan website](https://www.nissan.co.uk/) |
+| **Lloyds Banking Group** | I setup the API Platform for exposing APIs with all security mechanisms. This API Platform acts as their strategic method to expose any APIs in public Cloud including GCP & Azure. I predominentaly contributed in GCP, tech stacks include Apigee X Gateway, GCLB, Envoy, Kubernetes, Helm, Groovy, etc. I have also built an API onboarding automation tool which helps in quick onboarding of APIs from just submitting a Jira request, where based on the submitted request the APIs will be enabled to be onborded based on a automation trigger. | N/A as this is a platform. I can walkthrough the entire architecture and implementation on request |
+| **TSB Bank** | I helped in building the API Gateway along with Mesh setup using Kong Konnect Gateway & Mesh. The Cloud used was AWS and the CD tool was Argo CD. I created some custom plugins, implemented the Mesh policies, Connectivity to the Mesh with mTLS, etc. | N/A as this is a platform. I can walkthrough the entire architecture and implementation on request |
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 ![GPravin19's GitHub stats](https://github-readme-stats.vercel.app/api?username=GPravin19&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GPravin19&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GPravin19&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 📫 Connect with me
 
 You can find me on:
 
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/g-pravin-kumar/))
+- **LinkedIn:** [Pravin Kumar](https://www.linkedin.com/in/g-pravin-kumar/)
