@@ -1,15 +1,14 @@
-# Hi there, I'm GPravin19 👋
+# Hi there, I'm Pravin Kumar 👋
 
 ## 👨‍💻 About Me
-I'm a passionate developer with a love for creating innovative solutions. I'm currently exploring [Your Current Focus/Interest] and I'm excited about the possibilities in [Your Field of Interest].
+I'm a passionate Software Engineeer with a love for creating innovative solutions. I'm currently exploring [Platform Engineering & GenAI Usecases] and I'm excited about the possibilities in [Financial Sector & Generative AI].
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 Ask me about APIs, Devops, Gen AI, etc
+- 😄 Pronouns: HE / HIM / HIS
 - ⚡ Fun fact: ...
 
 ## 🚀 Skills & Technologies
@@ -24,8 +23,6 @@ Here are some of the technologies I've been working with recently:
 
 - **Frontend:**
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 - **Backend:**
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -56,6 +53,4 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 
 You can find me on:
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-username/)
-- **Twitter:** [![Twitter Follow](https://img.shields.io/twitter/follow/your-username?style=social)](https://twitter.com/your-username)
-- **Portfolio:** [your-portfolio.com](http://)
+- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/g-pravin-kumar/))
