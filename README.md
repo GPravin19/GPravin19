@@ -54,6 +54,12 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 ![GPravin19's GitHub stats](https://github-readme-stats.vercel.app/api?username=GPravin19&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GPravin19&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
+
+## <a href="https://www.hackerrank.com/GPravinKumar"> <img src="https://hrcdn.net/hrc/_next/static/next_assets/brand/logo-light.svg" width="240"/></a>
+
+[![Hackerrank badges](https://hackerrank-badges.vercel.app/GPravinKumar)](https://www.hackerrank.com/profile/GPravinKumar)
+
+
 ## 📫 Connect with me
 
 You can find me on:
